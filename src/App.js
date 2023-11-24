@@ -28,7 +28,6 @@ function App() {
   return (
     <>
     <MainData>
-
         <ThemeProvider theme={theme}>
   <Navbar/>
     <div className='container AppBox'>
@@ -41,14 +40,10 @@ function App() {
       <Route path='*' element={<Error/>}></Route>
     </Routes>
     </div>
-    
     <Footer/>
     </ThemeProvider>
 </MainData>
-
     </>
-
   );
 }
-
 export default App;
