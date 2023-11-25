@@ -37,7 +37,10 @@ const HomeStyle = styled.div`
     color: ${(props) => props.theme.colors.mainColor};
     font-size: 1.7rem;
   }
-
+@media only screen and (max-width: 600px) {
+  .name {
+    font-size: 2rem;
+  }
 
   
   }
