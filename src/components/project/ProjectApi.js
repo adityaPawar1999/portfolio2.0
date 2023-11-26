@@ -4,7 +4,7 @@ const data=[
         title:"BLOGSPOT(Mern)",
         img:"https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         descriptiom:"This project showcases React, Styled Components, NodeJs, and MongoDB database delivering a seamless blend of modern design, functionality, and responsiveness.",
-        gitLink:'https://github.com/adityaPawar1999/RestFulApi',
+        gitLink:'https://github.com/adityaPawar1999/blogspot',
         siteLink:'Error',
     },{
         id:2,
