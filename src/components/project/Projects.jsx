@@ -27,11 +27,6 @@ const Projects = () => {
                             <GitHubIcon sx={{ fontSize: 20 }} />
                           </a>
                         </span>
-                        <span className='siteLink'>
-                          <a href={val.siteLink} target='_blank' rel='noopener noreferrer'>
-                            <ViewComfyIcon sx={{ fontSize: 20 }} />
-                          </a>
-                        </span>
                       </p>
                     </div>
                     <h4 className='descr'>{val.descriptiom}</h4>
