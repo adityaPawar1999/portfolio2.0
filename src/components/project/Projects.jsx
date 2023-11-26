@@ -22,11 +22,9 @@ const Projects = () => {
                     <h4 className='title'>{val.title}</h4>
                     <div className='projectLinks text-white'>
                       <p >
-                        <span className='gitLink'>
-                          <a href={val.gitLink} target='_blank' rel='noopener noreferrer'>
-                            <GitHubIcon sx={{ fontSize: 20 }} />
-                          </a>
-                        </span>
+
+
+                        
                       </p>
                     </div>
                     <h4 className='descr'>{val.descriptiom}</h4>
