@@ -3,7 +3,7 @@ const data=[
         id:1,
         title:"BlogSpot(Mern)",
         img:"https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        descriptiom:"This project showcases React, Material-UI, Styled Components, Bootstrap, delivering a seamless blend of modern design, functionality, and responsiveness.",
+        descriptiom:"This project showcases React, Styled Components, NodeJs, and MongoDB database delivering a seamless blend of modern design, functionality, and responsiveness.",
         gitLink:'https://github.com/adityaPawar1999/RestFulApi',
         siteLink:'Error',
     },{
@@ -52,6 +52,12 @@ const miniData = [
         title: "Body Mass Index Calculator",
         descr: "html5,css3, javascript,", 
         link:"https://github.com/adityaPawar1999/Body-Mass-Index-Web-Application-Html-css-javascript"
+    },
+    {
+        id: 4,
+        title: "Body Mass Index Calculator",
+        descr: "NodeJS ,ExpressJs, MongoDB, Postman,", 
+        link:"https://github.com/adityaPawar1999/RestFulApi"
     }
 ];
 
