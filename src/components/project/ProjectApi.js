@@ -1,9 +1,9 @@
 const data=[
     {
         id:1,
-        title:"RESTFUL API",
-        img:"https://images.unsplash.com/photo-1623282033815-40b05d96c903?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        descriptiom:"The Field Template API documentation facilitates seamless management of field templates through clear authentication instructions, CRUD operations",
+        title:"BlogSpot(Mern)",
+        img:"https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        descriptiom:""This project showcases React, Material-UI, Styled Components, Bootstrap, delivering a seamless blend of modern design, functionality, and responsiveness."",
         gitLink:'https://github.com/adityaPawar1999/RestFulApi',
         siteLink:'Error',
     },{
