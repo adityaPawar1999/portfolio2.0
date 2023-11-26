@@ -1,7 +1,7 @@
 const data=[
     {
         id:1,
-        title:"BlogSpot(Mern)",
+        title:"BLOGSPOT(Mern)",
         img:"https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         descriptiom:"This project showcases React, Styled Components, NodeJs, and MongoDB database delivering a seamless blend of modern design, functionality, and responsiveness.",
         gitLink:'https://github.com/adityaPawar1999/RestFulApi',
@@ -15,7 +15,7 @@ const data=[
         siteLink:"error"
     },{
         id:3,
-        title:"bloghub WebSite UI",
+        title:"UPDATEDAILY WEBSITE UI",
         img:"https://images.unsplash.com/photo-1573867639040-6dd25fa5f597?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         descriptiom:"Explore bloghub , a React project where I've crafted a vibrant blog website using styled components. Enjoy a visually stunning and user-friendly....",
         gitLink:"https://github.com/adityaPawar1999/bloghub",
