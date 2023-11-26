@@ -55,7 +55,7 @@ const miniData = [
     },
     {
         id: 4,
-        title: "Body Mass Index Calculator",
+        title: "RestFul API with Authentication ",
         descr: "NodeJS ,ExpressJs, MongoDB, Postman,", 
         link:"https://github.com/adityaPawar1999/RestFulApi"
     }
