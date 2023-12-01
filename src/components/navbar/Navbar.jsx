@@ -21,7 +21,7 @@ const Navbar = () => {
             <StyleNAV>
                 <div className="navbar container">
                     <div className="logo">
-                        <h5>AVP.DEV</h5>
+                        <h5><b>AVP</b>.DEV</h5>
                     </div>
                     <div className="navlinks">
                         <NavLink className="links" to="/">home</NavLink>
