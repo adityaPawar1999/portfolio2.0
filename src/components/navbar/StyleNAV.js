@@ -36,6 +36,8 @@ z-index: 1000;
     display:none;
   }
   @media (max-width: 768px) {
+  .logo{
+  padding-left:1rem;
     .mobileSetting{
       display:block;
     }
