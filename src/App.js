@@ -8,8 +8,6 @@ import Navbar from './components/navbar/Navbar';
 
 import Home from './pages/homepage/Home'
 import About from './pages/about/About';
-import Projects from './pages/Projects'
-import Contact from './pages/Contact'
 import Error from './pages/Error'
 
 import MainData from './pages/homepage/MainData';
