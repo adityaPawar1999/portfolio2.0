@@ -7,8 +7,10 @@ const FooterStyle = styled.div`
     background-color: #212121;
     color:#fff;
     padding:2rem ;
+.active{
+    color:${props=>props.theme.colors.mainColor};
+}
 .title{
-    
   font-weight:700;
 }
     .SocialSite{
