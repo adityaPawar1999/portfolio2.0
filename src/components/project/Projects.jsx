@@ -3,7 +3,6 @@ import WhatIKnowStyle from './whatIKnowStyle';
 import { data, miniData } from './ProjectApi';
 
 import GitHubIcon from '@mui/icons-material/GitHub';
-import ViewComfyIcon from '@mui/icons-material/ViewComfy';
 
 const Projects = () => {
   return (<>
