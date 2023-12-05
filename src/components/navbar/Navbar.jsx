@@ -24,10 +24,8 @@ const Navbar = () => {
                         <h5><b>AVP</b>.DEV</h5>
                     </div>
                     <div className="navlinks">
-                        <NavLink className="links" to="/">home</NavLink>
-                        <NavLink className="links" to="/about">About</NavLink>
-                        <NavLink className="links" to="/home"> Project</NavLink>
-                        <NavLink className="links" to="/home">Contact</NavLink>
+                        <NavLink className="links" to="/">Home</NavLink>
+                        <NavLink className="links" to="/about">About Me</NavLink>
                         {MenuBtnOpen ? (
                             <p className='menuBtn' onClick={handleBTN}><CancelIcon/></p>
                         ) : (
@@ -43,12 +41,6 @@ const Navbar = () => {
                             </NavLink>
                             <NavLink onClick={closeMenu} className="Mobilelinks" to="/about">
                                 About
-                            </NavLink>
-                            <NavLink onClick={closeMenu} className="Mobilelinks" to="/home">
-                                Projects
-                            </NavLink>
-                            <NavLink onClick={closeMenu} className="Mobilelinks" to="/home">
-                                Contact
                             </NavLink>
                         </div>
                     )}
