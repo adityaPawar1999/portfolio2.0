@@ -4,7 +4,6 @@ import HomeStyle from './HomeStyle';
 import SkillsTech from '../../components/skills&Tech/SkillsTech';
 import Projects from '../../components/project/Projects';
 
-
 const Home = () => {
   return (
     <>
@@ -25,10 +24,8 @@ const Home = () => {
       </div>
     </HomeStyle>
     <SkillsTech/>
-    <Projects/>
-    
+    <Projects/> 
     </>
   );
 };
-
 export default Home;
