@@ -76,6 +76,7 @@ a{
     font-weight: 600;
     color: ${props => props.theme.colors.textColor};
     opacity: 0;
+    padding:2rem;
     transition: opacity 0.3s ease-in-out;
   }
   .imgBox:hover .descr {
