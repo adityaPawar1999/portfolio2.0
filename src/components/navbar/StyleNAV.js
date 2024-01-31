@@ -79,11 +79,11 @@ z-index: 1000;
   }
   .menuBtn {
     display: block;
-    padding-right:5rem;
+    padding-right:4rem;
   }
   .cancelBtn {
     display: block;
-    padding-right:5rem;
+    padding-right:4rem;
   }
 
   .mobileNavigation {
