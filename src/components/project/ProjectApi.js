@@ -43,9 +43,9 @@ const miniData = [
     },
     {
         id: 2,
-        title: "Color Generator",
-        descr: "html5,css3, javascript,Boostrap", 
-        link:"https://github.com/adityaPawar1999/Random-Color-Generator"
+        title: "Product Showcase Web App Assignment",
+        descr: "html5,css3, javascript", 
+        link:"https://github.com/adityaPawar1999/Assignment-For-Marmeto"
     },
     {
         id: 3,
