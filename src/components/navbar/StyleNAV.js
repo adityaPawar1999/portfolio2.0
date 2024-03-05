@@ -83,7 +83,7 @@ z-index: 1000;
   }
   .cancelBtn {
     display: block;
-    padding-right:4rem;
+    padding-right:2rem;
   }
 
   .mobileNavigation {
