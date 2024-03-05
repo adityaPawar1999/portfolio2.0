@@ -37,6 +37,20 @@ const HomeStyle = styled.div`
     color: ${(props) => props.theme.colors.mainColor};
     font-size: 1.7rem;
   }
+
+  .fade-in {
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .name {
     font-size: 2rem;
