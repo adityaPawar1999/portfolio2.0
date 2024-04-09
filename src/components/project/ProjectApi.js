@@ -44,7 +44,7 @@ const miniData = [
     {
         id: 2,
         title: "Product Showcase Web App Assignment",
-        descr: "html5,css3, javascript", 
+        descr: "html5,css3, javascript ", 
         link:"https://github.com/adityaPawar1999/Assignment-For-Marmeto"
     },
     {
