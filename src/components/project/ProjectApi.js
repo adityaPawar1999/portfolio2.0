@@ -16,7 +16,7 @@ const data=[
     },{
         id:3,
         title:"UPDATEDAILY WEBSITE UI",
-        img:"https://images.unsplash.com/photo-1573867639040-6dd25fa5f597?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        img:"https://images.unsplash.com/photo-1518975775530-f4dcbbee9672?q=80&w=1696&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         descriptiom:"Explore bloghub , a React project where I've crafted a vibrant blog website using styled components. Enjoy a visually stunning and user-friendly....",
         gitLink:"https://github.com/adityaPawar1999/bloghub",
         siteLink:" https://peaceful-peony-86715b.netlify.app/",
@@ -28,8 +28,22 @@ const data=[
         descriptiom:"A Full MERN (MongoDB, Express.js, React, Node.js) Todo application represents a powerful and versatile tool for task management.",
         gitLink:"https://github.com/adityaPawar1999/TODOAPP",
         siteLink:"Error",
-
+    },{
+        id:5,
+        title:"NoteCare",
+        img:"https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        descriptiom:"NoteHub is a versatile note-taking web application built with React, featuring user authentication, CRUD operations on notes, search functionality, and customizable note colors.",
+        gitLink:"https://github.com/adityaPawar1999/TODOAPP",
+        siteLink:"Error",
+    },{
+        id:5,
+        title:"SpotifyUI",
+        img:" https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3BvdGlmeXxlbnwwfHwwfHx8MA%3D%3D",
+        descriptiom:"SpotifyWeb: Frontend React project for exploring Spotify's music library, creating playlists, and enjoying seamless playback experiences",
+        gitLink:"https://github.com/adityaPawar1999/SpotifyUI",
+        siteLink:"Error",
     },
+   
 ];
 
 
@@ -58,7 +72,13 @@ const miniData = [
         title: "RestFul API with Authentication ",
         descr: "NodeJS ,ExpressJs, MongoDB, Postman,", 
         link:"https://github.com/adityaPawar1999/RestFulApi"
-    }
+    },
+    {
+        id: 5,
+        title: "Multi Step Form ",
+        descr: "react js , tailwind css", 
+        link:"https://github.com/adityaPawar1999/MultiStepForm"
+    },
 ];
 
 export { data, miniData };

@@ -16,6 +16,8 @@ const SkillsTech = () => {
                         <img width="5" alt="" />
                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
                         <img width="5" alt="" />
+                        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo" />
+                        <img width="5" alt="" />
                         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
                         <img width="5" alt="" />
                         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo" />
@@ -51,9 +53,9 @@ const SkillsTech = () => {
                 </div>
                 {/*----------------------------------------------  */}
                 <div className="rightBox col-lg-4">
-                    
+
                     <div className="ToolBox">
-                    <h5>Tools & Software</h5>
+                        <h5>Tools & Software</h5>
                         <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="photoshop logo" />
                         <img width="5" alt="" />
                         <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="illustrator logo" />
@@ -70,8 +72,8 @@ const SkillsTech = () => {
                         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="30" alt="eclipseide logo" />
                     </div>
 
-                    </div>
-                
+                </div>
+
 
             </div>
         </SkillStyle>
