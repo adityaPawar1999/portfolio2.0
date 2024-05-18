@@ -1,11 +1,19 @@
 const data=[
     {
-        id:1,
+        id:0,
         title:"BLOGSPOT(MERN)",
         img:"https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         descriptiom:"This project showcases React, Styled Components, NodeJs, and MongoDB database delivering a seamless blend of modern design, functionality, and responsiveness.",
         gitLink:'https://github.com/adityaPawar1999/blogspot',
         siteLink:'Error',
+    },
+    {
+        id:1,
+        title:"NoteCare",
+        img:"https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        descriptiom:"Notecare is a versatile note-taking web application built with React, featuring user authentication, CRUD operations on notes, search functionality, and customizable note colors.",
+        gitLink:"https://github.com/adityaPawar1999/notecareWebApp",
+        siteLink:"Error",
     },{
         id:2,
         title:"WEATHER WEBAPP",
@@ -26,13 +34,6 @@ const data=[
         title:"TODO APP (mern) ",
         img:"https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         descriptiom:"A Full MERN (MongoDB, Express.js, React, Node.js) Todo application represents a powerful and versatile tool for task management.",
-        gitLink:"https://github.com/adityaPawar1999/TODOAPP",
-        siteLink:"Error",
-    },{
-        id:5,
-        title:"NoteCare",
-        img:"https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        descriptiom:"NoteHub is a versatile note-taking web application built with React, featuring user authentication, CRUD operations on notes, search functionality, and customizable note colors.",
         gitLink:"https://github.com/adityaPawar1999/TODOAPP",
         siteLink:"Error",
     },{
