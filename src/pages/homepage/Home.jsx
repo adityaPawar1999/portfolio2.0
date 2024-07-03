@@ -21,7 +21,7 @@ const Home = () => {
       <HomeStyle>
         <div className={`cards homepage text-white ${isLoaded ? 'fade-in' : ''}`}>
           <img
-            src={process.env.PUBLIC_URL + '/images/aditya.jpg'}
+            src={process.env.PUBLIC_URL + '/images/aditya2.jpg'}
             alt="Your Alt Text"
             className="card-img imgStyle"
           />
@@ -34,8 +34,8 @@ const Home = () => {
           </div>
         </div>
       </HomeStyle>
-      <SkillsTech/>
-      <Projects/> 
+      <SkillsTech />
+      <Projects />
     </>
   );
 };
